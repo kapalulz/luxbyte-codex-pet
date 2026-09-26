@@ -6,6 +6,7 @@ The package uses the Codex pet v2 format:
 
 - 9 standard animation rows
 - 16 clockwise look directions
+- processing animation with an original red-black ocular magic orb
 - 1536 × 2288 WebP spritesheet
 - transparent background
 
