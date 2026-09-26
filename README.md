@@ -32,4 +32,6 @@ The package uses the Codex pet v2 format:
 
 ## Notice
 
-This is an unofficial fan-made project. Lux and League of Legends are trademarks and intellectual property of Riot Games. This repository is not affiliated with or endorsed by Riot Games.
+Luxbyte was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.
+
+This is a free, noncommercial fan project. Lux and League of Legends are trademarks and intellectual property of Riot Games.
